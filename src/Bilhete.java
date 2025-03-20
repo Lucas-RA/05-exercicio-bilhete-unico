@@ -24,7 +24,7 @@ public class Bilhete {
     }
 //    método para consultar o saldo do bilhete
 //    vai retornar o saldo
-    public double consultarSaldo(double saldo){
+    public double consultarSaldo(){
         return saldo;
 }
 //    método para passar na catraca
